@@ -10,7 +10,7 @@ if (!defined("B_PROLOG_INCLUDED") || B_PROLOG_INCLUDED !== true) die();
  * @property  arParams
  * @property  arResult
  */
-class IblockList extends \CBitrixComponent
+class HighloadBlockList extends \CBitrixComponent
 {
     protected $arrFilter = [];
 
